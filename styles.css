@@ -1,0 +1,27 @@
+body{background-color:lightgreen}
+h1 ,h2{font-family:Verdana;
+text-align:center;}
+img{display:block;
+margin:auto;
+max-width:100%;
+height:auto;
+}
+h1{background-color:#1b1b32;
+color:white;
+padding:15px}
+h2{background-color:#1b1b32;
+color:white;
+padding:13px;
+margin:auto}
+.caption{margin:10px 0;
+width:100%;
+text-align:center;
+font-family:monospace;}
+fieldset{max-width:80%;
+margin:auto;}
+.info{font-family:Calibri}
+h4{text-align:center;}
+
+footer{text-align:center;
+font-size:10px;
+font-family:Tahoma}
